@@ -4,7 +4,7 @@ Selamat datang di portofolio pertama saya! Repositori ini digunakan untuk belaja
 
 ## Daftar Proyek
 - **PythonProjects**: Berisi script Python untuk belajar dan latihan.
-  - [Lihat analysis.R](Projects/Algorenn)
+  - [Lihat project.py](Projects)
 
 ## Tentang Saya
 Saya adalah mahasiswa Sains Data semester 2 yang sedang belajar berbagai bahasa pemrograman dan analisis data. Repositori ini akan diperbarui dengan proyek baru seiring waktu.
